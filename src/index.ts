@@ -1,0 +1,1 @@
+export { chicken } from './chicken'
